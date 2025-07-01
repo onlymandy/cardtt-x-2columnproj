@@ -53,10 +53,16 @@ span{
 }
 h4{
     text-transform: uppercase;
+    color:black;
+}
+h1{
+    color:black;
+}
+p{
     color:white;
 }
 
-
+       
 
 
 
