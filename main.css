@@ -29,7 +29,8 @@
 }
 .firstsection-rightdiv{
     /* border:2px solid rgba(3, 140, 253, 0.997); */
-    background: var(--tomato-color);
+    background:url("./Crumbl_Cookie_Spoilers_May.webp");
+    background-size:contain; 
     
 }
 .link-holder{
